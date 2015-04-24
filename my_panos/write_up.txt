@@ -1,0 +1,5 @@
+To run the script that generates the panoramic of the three images (left.png, middle.png, and right.png), make sure you are in the same directory as pano_stitcher.py and simply say:
+
+python create_panos.py
+
+The resulting image, feetMosaic.png, will be in the current directory.
